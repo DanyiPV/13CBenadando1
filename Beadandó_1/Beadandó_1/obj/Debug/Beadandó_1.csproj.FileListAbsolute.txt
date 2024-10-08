@@ -1,0 +1,7 @@
+C:\C#\Beadandó_1\Beadandó_1\bin\Debug\Beadandó_1.exe.config
+C:\C#\Beadandó_1\Beadandó_1\bin\Debug\Beadandó_1.exe
+C:\C#\Beadandó_1\Beadandó_1\bin\Debug\Beadandó_1.pdb
+C:\C#\Beadandó_1\Beadandó_1\obj\Debug\Beadandó_1.csproj.AssemblyReference.cache
+C:\C#\Beadandó_1\Beadandó_1\obj\Debug\Beadandó_1.csproj.CoreCompileInputs.cache
+C:\C#\Beadandó_1\Beadandó_1\obj\Debug\Beadandó_1.exe
+C:\C#\Beadandó_1\Beadandó_1\obj\Debug\Beadandó_1.pdb
